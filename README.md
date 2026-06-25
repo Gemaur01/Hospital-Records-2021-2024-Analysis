@@ -1,1 +1,2 @@
 # Hospital-Records-2021-2024-Analysis
+This project analyzes hospital records from 2021 to 2024 to evaluate operational efficiency, patient demographics, treatment utilization, and hospitalization costs. The objective is to identify patterns in patient admissions, understand the factors that influence hospitalization costs, assess resource utilization, and generate insights that can support data-driven decision-making in healthcare management.
