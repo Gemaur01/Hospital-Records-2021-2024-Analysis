@@ -194,30 +194,6 @@ The analysis was conducted using SQL to answer key business questions such as:
 
 ---
 
-# 📁 Project Structure
-
-```text
-Hospital-Operational-Efficiency-Analysis/
-│
-├── Data/
-│   └── hospital_records.csv
-│
-├── SQL/
-│   └── hospital_analysis.sql
-│
-├── PowerBI/
-│   └── Hospital_Dashboard.pbix
-│
-├── Images/
-│   ├── operations-trends.png
-│   ├── cost-analysis.png
-│   
-│
-└── README.md
-```
-
----
-
 # 📌 Conclusion
 
 This project demonstrates how healthcare data can be transformed into actionable insights using SQL and Power BI. The analysis provides valuable information on patient demand, treatment utilization, hospitalization costs, and operational performance. These insights can support healthcare administrators in improving efficiency, optimizing resource allocation, and enhancing patient care outcomes.
