@@ -130,7 +130,7 @@ Identify the factors contributing to hospitalization costs and resource consumpt
 
 - Length of Stay vs Bill Amount Scatter Plot
 - Revenue by Medical Condition
-- Average Cost by Age Group
+- Cost by Age Group
 - Revenue Contribution by Stay Category
 - Medical Condition Cost Analysis
 - Cost Heatmap by Age Group and Medical Condition
@@ -151,19 +151,20 @@ The analysis was conducted using SQL to answer key business questions such as:
 - Average length of stay by condition
 - Cost analysis by age group and gender
 - Treatment utilization patterns
-- Resource consumption across patient groups
+- Resource consumption across patient age groups
 - High-cost patient identification
 
 ---
 
 # 📈 Key Findings
 
-- Hospital admissions increased steadily from 2021 to 2024, indicating recovery in hospital utilization following the COVID-19 period.
-- Diabetes and hypertension accounted for a significant proportion of patient admissions.
-- Length of stay was strongly associated with hospitalization costs.
-- Older patients incurred higher average hospitalization costs than younger patients.
-- Long-stay patients generated a substantial share of hospital revenue.
-- Certain treatments were associated with shorter hospital stays and lower average costs, indicating higher operational efficiency.
+- Hospital admissions increased steadily from 2021 to 2023 and declined in 2024.
+- The senior patients accounted for majority of hospital admissions, suggesting that healthcare demand was higher among them.
+- Alzhimer's disease and Skin infection are the medical conditions that accounted for majority of hospital admissioin,         indicating that these medical conditions place the greatest burden on hospital services.
+- Cancer and Chronic Kidney Disease accounted for a significant rise in revenue.
+- Length of stay was not strongly associated with hospitalization costs. 
+- Senior patients incurred higher hospitalization costs than younger patient.
+- Medication and sugery were performed more frequenlty than other treatments, reflecting the prevalence of specific medical    conditions.
 
 ---
 
@@ -173,8 +174,7 @@ The analysis was conducted using SQL to answer key business questions such as:
 2. Closely monitor patients with chronic conditions who are at higher risk of prolonged stays and elevated costs.
 3. Allocate resources efficiently to departments handling high-volume medical conditions.
 4. Expand the adoption of treatments associated with shorter hospital stays.
-5. Use predictive analytics to identify potential high-cost admissions early.
-6. Continuously monitor patient demand trends to improve staffing and capacity planning.
+5. Continuously monitor patient demand trends to improve staffing and capacity planning.
 
 ---
 
