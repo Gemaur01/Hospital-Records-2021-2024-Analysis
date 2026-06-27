@@ -6,7 +6,7 @@ This project analyzes hospital records from 2021 to 2024 to evaluate operational
 
 The analysis focuses on two key objectives:
 
-- Predicting hospitalization costs based on patient demographics and medical conditions.
+- Analyzing cost drivers and resource utilization.
 - Analyzing trends in hospital admissions and treatments over time.
 
 ---
