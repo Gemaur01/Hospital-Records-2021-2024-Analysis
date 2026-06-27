@@ -81,13 +81,16 @@ The following preprocessing steps were performed:
 
 ## Hospital Operations & Trends
 
-![Operations Dashboard](images/operations-trends.png)
+![Operations Dashboard](Operations-trends.png)
 
 ---
 
 ## Cost Drivers & Resource Utilization
 
-![Cost Analysis Dashboard](images/cost-analysis.png)
+![Cost Analysis Dashboard](Cost-analysis.png)
+
+---
+
 # 📊 Dashboard Structure
 
 ## Page 1: Hospital Operations & Trends
