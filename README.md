@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project analyzes hospital records from 2021 to 2024 to evaluate operational efficiency, patient demographics, treatment utilization, and hospitalization costs. Using SQL and Power BI, the project uncovers patterns in patient admissions, identifies key cost drivers, assesses resource utilization, and provides actionable insights to support data-driven healthcare decision-making.
+This project analyzes hospital records from 2021 to 2024 to evaluate operational efficiency, patient demographics, treatment utilization, and hospitalization costs. Using microsoft Excel, SQL and Power BI, the project uncovers patterns in patient admissions, identifies key cost drivers, assesses resource utilization, and provides actionable insights to support data-driven healthcare decision-making.
 
 The analysis focuses on two key objectives:
 
@@ -57,6 +57,7 @@ The following preprocessing steps were performed:
 - Removed duplicate records.
 - Standardized date formats.
 - Calculated Length of Stay using admission and discharge dates.
+- Calculated Age of patients using date of birth and admission date.
 - Created Age Group categories.
 - Extracted admission year and month from admission dates.
 - Validated hospitalization cost records.
@@ -76,6 +77,17 @@ The following preprocessing steps were performed:
 
 ---
 
+# 📸 Dashboard Preview
+
+## Hospital Operations & Trends
+
+![Operations Dashboard](images/operations-trends.png)
+
+---
+
+## Cost Drivers & Resource Utilization
+
+![Cost Analysis Dashboard](images/cost-analysis.png)
 # 📊 Dashboard Structure
 
 ## Page 1: Hospital Operations & Trends
@@ -170,27 +182,11 @@ The analysis was conducted using SQL to answer key business questions such as:
 - SQL Querying
 - Exploratory Data Analysis
 - Healthcare Analytics
-- Business Intelligence
 - Data Visualization
 - Dashboard Design
 - DAX Calculations
 - Data Storytelling
-- Predictive Analytics
 - KPI Development
-
----
-
-# 📸 Dashboard Preview
-
-## Hospital Operations & Trends
-
-![Operations Dashboard](images/operations-trends.png)
-
----
-
-## Cost Drivers & Resource Utilization
-
-![Cost Analysis Dashboard](images/cost-analysis.png)
 
 ---
 
